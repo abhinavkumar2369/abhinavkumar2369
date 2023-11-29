@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Web Development**
 
-- 📫 How to reach me **abhinavkumar53062@gmail.com**
+- 📫 How to reach me **abhinavkumar2369@outlook.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
