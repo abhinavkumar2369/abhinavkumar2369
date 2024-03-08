@@ -38,11 +38,12 @@
 <a href="https://discord.gg/abhinavkumar2369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="abhinavkumar2369" height="30" width="40" /></a>
   <br/>
 </p>
-
+<!--
 <p>
   <h3 align="left"></h3>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinavkumar2369&show_icons=true&locale=en&layout=compact" alt="abhinavkumar2369"/>
 </p>
+-->
 <!--- <hr/> --->
 <!--- 
 <h3 align="left">Languages and Tools:</h3>
