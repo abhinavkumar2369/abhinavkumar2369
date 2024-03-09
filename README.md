@@ -1,3 +1,5 @@
+<h2 align="left">About Myself ➡️➡️</h2>
+
 - 👋 Hi, I’m <b>Abhinav Kumar<b>.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning C++ , Python & Web Development.
@@ -40,8 +42,6 @@
 </p>
 
 <h2 align="left">I Code With ➡️➡️ </h2>
-
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -94,8 +94,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
 </div>
-
-###
 <!--
 <p>
   <h3 align="left"></h3>
