@@ -73,16 +73,11 @@
 
 <p align="center">
   <a href="https://abhinavkumar.dev" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Portfolio-abhinavkumar.dev-E95420?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/My%20Portfolio-abhinavkumar.dev-darkred?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev Portfolio Badge"/>
   </a>
 </p>
 
-
-<br/>
-
-
 <!----------------------------------->
-
 
 ### 💫 About Me
 
