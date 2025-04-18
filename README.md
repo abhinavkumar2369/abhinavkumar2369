@@ -66,57 +66,41 @@
     <img width="2" />
 </div>
 
+<!----------------------------------->
+
+<br/>
+<br/>
+
+<p align="center">
+  <a href="https://abhinavkumar.dev" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-abhinavkumar.dev-E95420?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev Portfolio Badge"/>
+  </a>
+</p>
+
+
+<br/>
+
 
 <!----------------------------------->
 
 
+### 💫 About Me
 
-## About Myself ➡️➡️
-- 👋 Hi, there,
-- 👀 **I’m interested in `Artificial Inteligence and Machine Learning`.**
-- 🌱 **I’m currently learning `Web Development` & `App Development`.**
-- 💞️ **I’m looking to collaborate on `AI and ML projects`.**
-- 📫 **How to reach me: `Email Me` at - abhinavkumar2369@outlook.com**
-- 😄 **Pronouns: `He/Him`.**
-- ⚡ **Fun fact: `I am very passionate about learning new and evolving technologies`.**
+- 🔭 I’m currently working on -> **AI-powered Web** & **Mobile Apps**
+- 🌱 I’m learning ->  **Machine Learning** & **Deep Learning**.
+- 👯 I’m looking to collaborate on -> `AI/ML` Projects, `Open Source`
+- 💬 Ask me about -> `Python`, `JavaScript`, `React`, `React Native`, `Machine Learning`
+- 💌 Email -> abhinavkumar2369@outlook.com
+<br/>
 
 
 <!----------------------------------->
 
 
-## 📫 Contact & Social Media
-<div align="center">
-    <a href="mailto:abhinavkumar2369@outlook.com">
-        <img src="https://img.shields.io/badge/Outlook%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=darkgreen"/>
-    <a/>
-    <!--- --->
-    <img width="4" />
-    <!--- --->
-    <a href="https://abhinavkumarofficial.com">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white&color=red" />
-    </a>
-    <!--- --->
-    <img width="4" />
-    <!--- --->
-    <a href="https://www.linkedin.com/in/abhinavkumar2369">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <!--- --->
-    <img width="4" />
-    <!--- --->
-    <a href="https://github.com/abhinavkumar2369">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-    </a>
-    <!--- --->
-    <img width="4" />
-    <!--- --->
-    <a href="https://leetcode.com/abhinavkumar2369">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&color=darkorange"/>
-    </a>
-    <!--- --->
-    <img width="4" />
-    <!--- --->
-    <a href="https://twitter.com/Abhinav_2369">
-        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-    </a>
-</div>
+> 🌌 I believe AI isn't about replacing humans, but augmenting their creativity
+
+<br/>
+
+<p align="center">
+  Made with ❤️ by <strong>Abhinav Kumar</strong>
+</p>
