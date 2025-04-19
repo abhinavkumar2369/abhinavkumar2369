@@ -72,20 +72,25 @@
 <br/>
 
 <p align="center">
-  <a href="https://abhinavkumar.dev" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Portfolio-abhinavkumar.dev-darkred?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev Portfolio Badge"/>
-  </a>
+    <a href="https://abhinavkumar.dev" target="_blank">
+        <img src="https://img.shields.io/badge/-abhinavkumar.dev-FC345C?style=for-the-badge&logo=google-chrome&logoColor=white&label=MY%20Portfolio"/>
+    </a>
+    <a href="mailto:mail@abhinavkumar.dev">
+        <img src="https://img.shields.io/badge/-mail@abhinavkumar.dev-3A59D1?style=for-the-badge&logo=gmail&logoColor=white&label=Email" />
+    </a>
 </p>
 
 <!----------------------------------->
 
 ### 💫 About Me
 
-- 🔭 I’m currently working on -> **AI-powered Web** & **Mobile Apps**
-- 🌱 I’m learning ->  **Machine Learning** & **Deep Learning**.
-- 👯 I’m looking to collaborate on -> `AI/ML` Projects, `Open Source`
-- 💬 Ask me about -> `Python`, `JavaScript`, `React`, `React Native`, `Machine Learning`
-- 💌 Email -> abhinavkumar2369@outlook.com
+- 🔭 I’m currently working on
+  - AI-powered Web (MERN Stack)
+  - Mobile Apps (React Native)
+
+- 👯 I’m looking to collaborate on
+   - AI/ML Projects
+   - Open Source
 <br/>
 
 
