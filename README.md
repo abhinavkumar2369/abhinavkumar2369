@@ -38,21 +38,22 @@
     <img width="2" />
     <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo"  />
     <img width="2" />
-    <img src="https://skillicons.dev/icons?i=aws" height="35" alt="React Native logo" />
-    <img width="2" />
-    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/00/f6/9300f6bd-37d4-fee9-b417-c941629555eb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x0w.webp" height="35" alt="React Native logo" />
-    <img width="2" />
-    <img src="https://skillicons.dev/icons?i=androidstudio" height="35" alt="androidstudio logo"  />
-    <img width="2" />
-    <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
-    <img width="2" />
     <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
     <img width="2" />
+<!--     <img src="https://skillicons.dev/icons?i=aws" height="35" alt="React Native logo" />
+    <img width="2" /> -->
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/00/f6/9300f6bd-37d4-fee9-b417-c941629555eb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/246x0w.webp" height="35" alt="React Native logo" />
+    <img width="2" />
+<!--     <img src="https://skillicons.dev/icons?i=androidstudio" height="35" alt="androidstudio logo"  />
+    <img width="2" /> -->
+    
 </div>
 
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="git logo"  />
+    <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
+    <img width="2" />
+    <img src="https://skillicons.dev/icons?i=cpp" height="35" alt="cpp logo"  />
     <img width="2" />
     <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
     <img width="2" />
@@ -60,8 +61,8 @@
     <img width="2" />
     <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
     <img width="2" />
-    <img src="https://skillicons.dev/icons?i=visualstudio" height="35" alt="git logo"  />
-    <img width="2" />
+<!--     <img src="https://skillicons.dev/icons?i=visualstudio" height="35" alt="git logo"  />
+    <img width="2" /> -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="35" alt="anaconda logo"  />
     <img width="2" />
 </div>
@@ -69,8 +70,8 @@
 <!----------------------------------->
 
 <br/>
-<br/>
 
+<!--
 <p align="center">
     <a href="https://abhinavkumar.dev" target="_blank">
         <img src="https://img.shields.io/badge/-abhinavkumar.dev-FC345C?style=for-the-badge&logo=google-chrome&logoColor=white&label=MY%20Portfolio"/>
@@ -80,17 +81,25 @@
     </a>
 </p>
 
+--->
+
 <!----------------------------------->
 
 ### 💫 About Me
 
-- 🔭 I’m currently working on
-  - AI-powered Web (MERN Stack)
-  - Mobile Apps (React Native)
+- My Portfolio Website: [abhinavkumar.dev](https://abhinavkumar.dev)
+- Email:  [mail@abhinavkumar.dev](mailto:abhinavkumar.dev)
 
-- 👯 I’m looking to collaborate on
-   - AI/ML Projects
-   - Open Source
+ 
+### 🎓 Education:
+- B.Tech CSE(AIML) 2022-26.
+- Dr. A.P.J Abdul Kalam University, Lucknow.
+
+ 
+### 🔭 I’m currently working on
+- AI-powered MERN based Web & Mobile Apps.  
+- Integrating Machine Learning models into real-time productivity tools.
+  
 <br/>
 
 
