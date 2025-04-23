@@ -87,16 +87,19 @@
 
 ### 💫 About Me
 
-- My Portfolio Website: [abhinavkumar.dev](https://abhinavkumar.dev)
-- Email:  [mail@abhinavkumar.dev](mailto:abhinavkumar.dev)
+- My Portfolio Website: &nbsp; [abhinavkumar.dev](https://abhinavkumar.dev)
+- Email: &nbsp; [mail@abhinavkumar.dev](mailto:mail@abhinavkumar.dev)
 
  
 ### 🎓 Education:
-- B.Tech CSE(AIML) 2022-26.
-- Dr. A.P.J Abdul Kalam University, Lucknow.
+
+- **B.Tech &nbsp; CSE (AIML)** &nbsp; 2022-26 &nbsp; `8.36 SGPA`
+- **CBSE &nbsp; Class-XII** &nbsp; 2021 &nbsp; `91.8%`
+- **CBSE &nbsp; Class-X** &nbsp; 2019 &nbsp; `91.8%`
 
  
 ### 🔭 I’m currently working on
+
 - AI-powered MERN based Web & Mobile Apps.  
 - Integrating Machine Learning models into real-time productivity tools.
   
