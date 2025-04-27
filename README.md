@@ -85,24 +85,19 @@
 
 <!----------------------------------->
 
-### 💫 About Me
+## 💫 About Me
 
-- My Portfolio Website: &nbsp; [abhinavkumar.dev](https://abhinavkumar.dev)
-- Email: &nbsp; [mail@abhinavkumar.dev](mailto:mail@abhinavkumar.dev)
+- 🌐 **Portfolio:** [abhinavkumar.dev](https://abhinavkumar.dev)  
+- 📩 **Email:** [mail@abhinavkumar.dev](mailto:mail@abhinavkumar.dev)
 
- 
-### 🎓 Education:
 
-- **B.Tech &nbsp; CSE (AIML)** &nbsp; 2022-26 &nbsp; `8.36 SGPA`
-- **CBSE &nbsp; Class-XII** &nbsp; 2021 &nbsp; `91.8%`
-- **CBSE &nbsp; Class-X** &nbsp; 2019 &nbsp; `91.8%`
 
- 
-### 🔭 I’m currently working on
+## 🔭 Currently Working On
 
-- AI-powered MERN based Web & Mobile Apps.  
-- Integrating Machine Learning models into real-time productivity tools.
-  
+- 🚀 Developing **AI-powered** MERN-based **Web** and **Mobile Applications**.
+- 🤖 Integrating **Machine Learning Models** into **Real-Time Productivity Tools** to drive smarter user experiences.
+
+
 <br/>
 
 
