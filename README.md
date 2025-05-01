@@ -85,20 +85,11 @@
 
 <!----------------------------------->
 
-## 💫 About Me
-
+### 💫 About Me
 - 🌐 **Portfolio:** [abhinavkumar.dev](https://abhinavkumar.dev)  
 - 📩 **Email:** [mail@abhinavkumar.dev](mailto:mail@abhinavkumar.dev)
-
-
-
-## 🔭 Currently Working On
-
 - 🚀 Developing **AI-powered** MERN-based **Web** and **Mobile Applications**.
 - 🤖 Integrating **Machine Learning Models** into **Real-Time Productivity Tools** to drive smarter user experiences.
-
-
-<br/>
 
 
 <!----------------------------------->
