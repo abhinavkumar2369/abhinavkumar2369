@@ -2,7 +2,7 @@
 💻 **Full-Stack Developer** | 🌱 Lifelong Learner | 🚀 Tech Enthusiast  
 
 
-### 🚀 About Me
+## 🚀 About Me
 - 🔭 Currently working on **AI-powered & MERN stack projects**
 - 🌱 Learning **TypeScript** and **Advanced Machine Learning**
 - 💡 Interested in **AI, Web Development, and System Design**
